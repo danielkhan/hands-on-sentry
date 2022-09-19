@@ -24,6 +24,14 @@ If not, run `brew install git`.
 
 After this operation is completed `git --version` should work as expected.
 
+Next, Git needs to be configured.
+For that, run
+
+```sh
+git config --global user.name "your_github_username"
+git config --global user.email "your_email@acme.com"
+```
+
 ### Docker
 Our project uses Docker to run the various services.
 
