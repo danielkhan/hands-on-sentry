@@ -35,7 +35,7 @@ git config --global user.email "your_email@acme.com"
 ### Docker
 Our project uses Docker to run the various services.
 
-To install Docker, download the installer for zour system from the [Docker website](https://docs.docker.com/desktop/install). 
+To install Docker, download the installer for zour system from the [Docker website](https://docs.docker.com/desktop/install/mac-install/). 
 
 Alternatively, Homebrew can also be used to install Docker.
 
