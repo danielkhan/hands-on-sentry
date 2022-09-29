@@ -81,5 +81,3 @@ Once the images are built and containers are started you can access:
 * Load Generator UI: http://localhost:8089/
 
 The demo also runs a load generator, which will continuously generate traffic, hitting all services.
-
-Next: [Exercise 1](./exercises/exercise-1.md).
